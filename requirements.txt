@@ -1,0 +1,4 @@
+# Rock Paper Scissors Game Requirements
+# This project uses only Python's standard library modules.
+
+# Tested with Python 3.8+
